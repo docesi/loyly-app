@@ -51,7 +51,7 @@ const DATA_OVERRIDES: Record<number, Partial<Sauna>> = {
 
 export const fetchSaunaData = async (): Promise<Sauna[]> => {
   try {
-    const response = await fetch('./saunas.json');
+    const response = await fetch('/saunas.json');
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
