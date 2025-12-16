@@ -281,7 +281,10 @@ function App() {
           }}
         />
 
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 relative z-10">
+        <div
+          className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-6 relative z-10"
+          style={{ paddingTop: 'calc(env(safe-area-inset-top, 0px) + 1.5rem)' }}
+        >
           <div className="flex flex-row items-center justify-between gap-6">
             <div className="text-left max-w-2xl flex-1 flex flex-col gap-2">
               <h1 className="text-2xl md:text-3xl font-serif font-bold tracking-tight text-wood-100 drop-shadow-md">
@@ -336,7 +339,10 @@ function App() {
       </div>
 
       {/* Control Bar */}
-      <div className="sticky top-0 z-30 bg-white/95 backdrop-blur-xl border-b border-stone-200 shadow-sm transition-all duration-300">
+      <div
+        className="sticky top-0 z-30 bg-white/95 backdrop-blur-xl border-b border-stone-200 shadow-sm transition-all duration-300"
+        style={{ top: 'env(safe-area-inset-top, 0px)' }}
+      >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 py-3">
 
