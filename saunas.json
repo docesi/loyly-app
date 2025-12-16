@@ -1,0 +1,2747 @@
+[
+  {
+    "id": 73,
+    "sijoitus": 73,
+    "nimi": "Järvenkylän sauna",
+    "sijainti": {
+      "kunta": "Hämeenkyrö",
+      "osoite": "Vesajärventie 247, Hämeenkyrö"
+    },
+    "hinta": "ilmainen",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5],
+        "alkaa": "12:00",
+        "paattyy": "20:00",
+        "selite": "Kesäisin kesäkahvion aukioloaikojen mukaan, säävaraus."
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "12:00",
+        "paattyy": "16:00",
+        "selite": "Kesäisin, säävaraus. Sunnuntain päättymisaika voi olla aiemmin."
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "uimaranta", "kesäkioski"],
+    "pisteet": 25,
+    "arvioinnit": {
+      "loylyt": "10/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Pirkanmaan tuntemattomimpia saunoja, joka toimii uimarannan ja kesäkioskin lisäpalveluna. Vierailuhetkellä sauna oli huonossa kunnossa: ajastin nollautunut, valot pimeänä ja siivoamatta. Pieni sähkökiuas, mutta viistokatto karkottaa löylyt. Parhaita puolia ovat ilmaisuus, upea rantamaisema ja kesäkioski.",
+    "huomioita": "Suurin riski on epävarmuus aukiolosta. Vaatisi huolellisempaa hoitoa."
+  },
+  {
+    "id": 72,
+    "sijoitus": 72,
+    "nimi": "Niihaman lenkkisauna",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Pikku-Niihamantie 98, Tampere"
+    },
+    "hinta": "8€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2, 4],
+        "alkaa": "16:00",
+        "paattyy": "19:00",
+        "selite": "Sekasauna"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto"],
+    "pisteet": 28,
+    "arvioinnit": {
+      "loylyt": "16/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "1/3",
+      "hinta": "2/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Palvelee erityisesti Kaupin metsissä hiihtäviä kuntoilijoita. Jatkuvalämmitteinen puusauna, jonka löylyt olivat testatessa kosteat mutta liian miedot (70 astetta). Avantoon hankala polku pimeällä ja avanto vain pieni aukko. Pukutilat ahtaat ja suihku saunan puolella.",
+    "huomioita": "Pääsymaksu on noussut 8 euroon."
+  },
+  {
+    "id": 71,
+    "sijoitus": 71,
+    "nimi": "Vohlisaaren rantasauna",
+    "sijainti": {
+      "kunta": "Pälkäne",
+      "osoite": "Vohlisaarentie 28, Pälkäne"
+    },
+    "hinta": "2,90€ (laskutus jälkikäteen)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 4],
+        "alkaa": "17:00",
+        "paattyy": "21:00",
+        "selite": "Talvikaudella (lokakuu-huhtikuu)"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto"],
+    "pisteet": 28,
+    "arvioinnit": {
+      "loylyt": "16/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Luopioisten kunnan entinen edustussauna. Sähkösaunan löylyt ovat pehmeät, jopa liian lempeät. Polku laiturille on pitkä mutta hyvin valaistu. Yhteinen suihkutila ja vaatteiden vaihto verhon takana. Ei ruuhkia.",
+    "huomioita": "Poikkeuksellinen maksutapa: kunta laskuttaa kävijöitä jälkikäteen nimilistan perusteella. Pari tutustumiskertaa on veloitukseton."
+  },
+  {
+    "id": 70,
+    "sijoitus": 70,
+    "nimi": "Kiviojan Helmi",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Velaatantie 1073, Tampere"
+    },
+    "hinta": "10€ (pakollinen ajanvaraus)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [4],
+        "alkaa": null,
+        "paattyy": null,
+        "selite": "Joka toinen torstai loppiaisesta huhti-toukokuulle."
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto", "tilaussauna"],
+    "pisteet": 28,
+    "arvioinnit": {
+      "loylyt": "18/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "1/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Kaanaan kylällä sijaitseva jatkuvalämmitteinen puusauna, jota ylläpitää maatilamatkailuyrittäjä ja kyläyhdistys. Uimaan pääsee pienessä lammessa. Puitteet ovat upeat ja laadukkaat, koska sauna palvelee pääasiassa tilausasiakkaita. Pukuhuone on pieni ja yhteinen.",
+    "huomioita": "Laiturin valaistusta on parannettu."
+  },
+  {
+    "id": 69,
+    "sijoitus": 69,
+    "nimi": "Paijalan sauna",
+    "sijainti": {
+      "kunta": "Ylöjärvi",
+      "osoite": "Paijalantie, Ylöjärvi (Viljakkala)"
+    },
+    "hinta": "20€ (kausimaksu)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [6],
+        "alkaa": "15:00",
+        "paattyy": "18:00",
+        "selite": "Kesälauantaisin"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "erilliset saunat miehille ja naisille"],
+    "pisteet": 29,
+    "arvioinnit": {
+      "loylyt": "14/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Mannin asukasyhdistyksen sauna Kyrösjärven rannalla, jossa naiset ja miehet saunovat eri rakennuksissa. Miesten puolen sähkösaunan löylyt ovat vaisut. Suosittu sauna, jossa voi olla ahdasta. Pesuvesi lämmitetään puulla, koska juoksevaa vettä ei ole.",
+    "huomioita": "Ylöjärven kaupunki on luopumassa saunarakennuksista, joten sääntöihin voi tulla muutoksia."
+  },
+  {
+    "id": 68,
+    "sijoitus": 68,
+    "nimi": "Lempoinen",
+    "sijainti": {
+      "kunta": "Lempäälä",
+      "osoite": "Nokkatie 5, Lempäälä"
+    },
+    "hinta": "Kausimaksu 80€ tai 6€/kerta (ke)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2, 4],
+        "alkaa": "16:00",
+        "paattyy": "21:30",
+        "selite": "Talvikausi (Lempäälän Kisan vuoro)"
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "15:00",
+        "paattyy": "21:30",
+        "selite": "Talvikausi (Lempäälän Kisan vuoro)"
+      },
+      {
+        "viikonpaivat": [3],
+        "alkaa": "16:00",
+        "paattyy": "21:00",
+        "selite": "Lempo-Volleyn vuoro"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto", "erilliset saunat"],
+    "pisteet": 29,
+    "arvioinnit": {
+      "loylyt": "14/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Sijaitsee kauniilla paikalla Kirkkojärven rannalla. Miehet ja naiset saunovat erillään. Sähkösaunan löylyt olivat testikäynnillä vaatimattomat. Tunnelma on leppoisa.",
+    "huomioita": "Vain kausimaksu, ei kertamaksumahdollisuutta (pois lukien keskiviikko)."
+  },
+  {
+    "id": 67,
+    "sijoitus": 67,
+    "nimi": "Tampereen Pursiseuran avantosauna",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Kekkosenkatu 10, Tampere"
+    },
+    "hinta": "9€ (ennakkovaraus)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [5, 6],
+        "alkaa": "16:00",
+        "paattyy": "21:00",
+        "selite": "Tunnin saunavuorot"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "kärrysauna", "avanto"],
+    "pisteet": 29,
+    "arvioinnit": {
+      "loylyt": "18/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "1/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Kärrysauna avantouimareiden käytössä Naistenlahdessa. Puulämmitteisen saunan löylyt miedot mutta kosteat. Uimapaikka on kapeiden pystytikkaiden takia hieman hankala. Puku- ja suihkutilat pursiseuran seuramajassa. Urbaani vaihtoehto leppoisille löylyille.",
+    "huomioita": "Maksu ja tunnin saunavuoron varaus tehdään etukäteen netissä."
+  },
+  {
+    "id": 66,
+    "sijoitus": 66,
+    "nimi": "Pihlapirtti",
+    "sijainti": {
+      "kunta": "Ruovesi",
+      "osoite": "Vasikkaniementie 1, Ruovesi"
+    },
+    "hinta": "8€ (jäsenille 5€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2, 4],
+        "alkaa": "16:00",
+        "paattyy": "20:00",
+        "selite": "Talviuinti lokakuun puolivälistä alkaen"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto"],
+    "pisteet": 30,
+    "arvioinnit": {
+      "loylyt": "17/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "2/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Ruoveden Kanoottipurjehtijoiden tukikohdan avantosauna. Sauna on ahdas, mutta sähkösaunan löylyt pysyvät pienessä tilassa hyvin kasassa. Ilmapiiri on verraton ja ulkopuolinenkin otetaan vastaan poikkeuksellisen lämpimästi.",
+    "huomioita": "Ruoveden kunta muutti tiejärjestelyjä keväällä 2023, Vasikkaniementie on nykyään kävelytie, mikä rauhoitti alueen liikennettä."
+  },
+  {
+    "id": 65,
+    "sijoitus": 65,
+    "nimi": "Viikinsaari",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Viikinsaari, Tampere"
+    },
+    "hinta": "7€ (lisäksi laivamaksu)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [6],
+        "alkaa": "16:00",
+        "paattyy": "20:00",
+        "selite": "Kesäviikonloput"
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "15:00",
+        "paattyy": "18:00",
+        "selite": "Kesäviikonloput"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "ravintola"],
+    "pisteet": 30,
+    "arvioinnit": {
+      "loylyt": "16/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "2/3",
+      "hinta": "2/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Puusaunan löylyt Pyhäjärven rannalla. Löylyt ovat kosteat, mutta lämpötila jää alhaiseksi. Maisema Pirkkalan rannikolle on kuvankaunis ja tunnelma leppoisa. Ilmapiiri on nuorekas. Oheispalvelut erinomaiset lähellä sijaitsevan ravintolan ansiosta.",
+    "huomioita": "Heikkoutena organisointi; testikäynnillä ovia ei oltu avattu eikä maksupaikasta ollut tietoa."
+  },
+  {
+    "id": 64,
+    "sijoitus": 64,
+    "nimi": "Näsirinteen sauna",
+    "sijainti": {
+      "kunta": "Ylöjärvi",
+      "osoite": "Rauhalan yksityistie 44, Ylöjärvi"
+    },
+    "hinta": "6€",
+    "aukioloajat": [],
+    "tila": "Toistaiseksi tilauskäytössä",
+    "ominaisuudet": ["sähkösauna", "erilliset saunat"],
+    "pisteet": 30,
+    "arvioinnit": {
+      "loylyt": "16/20",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "3/3",
+      "hinta": "2/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Sijaitsee komealla paikalla Näsijärven rannassa. Naiset ja miehet saunoivat erikseen sähkösaunoissa, joiden löylyt olivat kosteat mutta miedot (80 astetta). Oleskelutilat olivat poikkeuksellisen mukavat ja näköalat verrattomat. Miljööltään ja maisemiltaan piilotettu aarre.",
+    "huomioita": "Yleisten saunojen joukossa tarina jäi lyhyeksi, sauna on ollut viime vuodet vain tilauskäytössä."
+  },
+  {
+    "id": 63,
+    "sijoitus": 63,
+    "nimi": "Kämmenniemen sauna",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Niemisennokantie 42, Tampere"
+    },
+    "hinta": "kausimaksu 50€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3],
+        "alkaa": "18:00",
+        "paattyy": null,
+        "selite": ""
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto", "historiallinen"],
+    "pisteet": 30,
+    "arvioinnit": {
+      "loylyt": "17/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Pirkanmaan maakunnan vanhin yleinen sauna, esiintyy jo vuoden 1904 kartoissa. Sauna on kuin aikamatka sadan vuoden taakse. Puilla lämpiävän kiukaan löylyt ovat kosteat ja lempeät. Uimaan pääsee pieneen avantoon, mutta tikkaat voivat olla jäiset.",
+    "huomioita": "Saunassa voi tavata myös koiran nauttimassa löylyistä."
+  },
+  {
+    "id": 62,
+    "sijoitus": 62,
+    "nimi": "Kankahuven rantasauna",
+    "sijainti": {
+      "kunta": "Pälkäne",
+      "osoite": "Kankahuventie 79, Aitoo"
+    },
+    "hinta": "2,90€ (laskutus kauden päätteeksi)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2],
+        "alkaa": "18:00",
+        "paattyy": "21:00",
+        "selite": "Ympäri vuoden"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto"],
+    "pisteet": 30,
+    "arvioinnit": {
+      "loylyt": "18/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Paikallisen kyläyhdistyksen pyörittämä yleinen saunavuoro kunnan omistamassa rantasaunassa. Sähkölämmitteisen saunan löylyt ovat lempeät. Kävelymatka rantaan on pitkä ja saunapolku voi olla keskitalvella hankala. Pukutilat ovat ahtaat.",
+    "huomioita": ""
+  },
+  {
+    "id": 61,
+    "sijoitus": 61,
+    "nimi": "Tehdassaaren elämyssauna",
+    "sijainti": {
+      "kunta": "Nokia",
+      "osoite": "Souranderintie 2, Nokia"
+    },
+    "hinta": "7€",
+    "aukioloajat": [],
+    "tila": "Muuttunut tilaussaunaksi, ei enää yleisiä vuoroja.",
+    "ominaisuudet": ["puusauna", "kelluva sauna", "kahvila"],
+    "pisteet": 31,
+    "arvioinnit": {
+      "loylyt": "17/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "oheistilat": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "1/3",
+      "hinta": "2/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Kelluva elämyssauna historiallisessa miljöössä Nokianvirran kupeessa. Kiuas lämpiää puilla. Uimaan pääsee, mutta metalliset laituritikkaat ovat hankalat ja jopa vaaralliset. Tehdassaaren kahvila palvelee saunojia.",
+    "huomioita": ""
+  },
+  {
+    "id": 60,
+    "sijoitus": 60,
+    "nimi": "Eräjärven avantosauna",
+    "sijainti": {
+      "kunta": "Orivesi",
+      "osoite": "Eräjärventie 1500, Orivesi"
+    },
+    "hinta": "5€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [6],
+        "alkaa": "13:00",
+        "paattyy": "17:00",
+        "selite": "Vappuun asti"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto"],
+    "pisteet": 31,
+    "arvioinnit": {
+      "loylyt": "17/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Pirkanmaan uusin yleinen sauna (helmikuu 2024), joka saatiin käyttöön paikallisten aktiivisuuden ansiosta. Vanha puukiuas antaa pehmeät ja kosteat löylyt. Puiden lisääminen on pääosin saunojien vastuulla. Sauna on ahdas (4 henkeä). Ei erillistä suihkua, peseytyminen löylyhuoneessa.",
+    "huomioita": "Huomattava enemmistö saunojista on naispuolisia."
+  },
+  {
+    "id": 59,
+    "sijoitus": 59,
+    "nimi": "Toijalan satama",
+    "sijainti": {
+      "kunta": "Akaa",
+      "osoite": "Kangassaarentie 14, Akaa"
+    },
+    "hinta": "Talvikausi 50€, kesällä 6€/kerta",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [4, 5, 6],
+        "alkaa": "14:00",
+        "paattyy": "18:00",
+        "selite": "Kesäkausi vapusta 2025 alkaen."
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto", "erilliset saunat"],
+    "pisteet": 31,
+    "arvioinnit": {
+      "loylyt": "17/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Sijaitsee luonnonkauniilla paikalla Vanajaveden rannalla. Naiset ja miehet saunovat omissa saunoissaan. Sähkösaunan löylyt ovat pehmeän kosteat. Ilmapiiri on rento ja matka avantoon turvallinen. Hinta on erittäin edullinen.",
+    "huomioita": ""
+  },
+  {
+    "id": 58,
+    "sijoitus": 58,
+    "nimi": "Vammalan rantasauna",
+    "sijainti": {
+      "kunta": "Sastamala",
+      "osoite": "Iisankatu 6, Sastamala"
+    },
+    "hinta": "3€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 4],
+        "alkaa": "15:00",
+        "paattyy": "20:00",
+        "selite": "Talvikaudella. Tiistaina alkaa klo 16."
+      },
+      {
+        "viikonpaivat": [2, 3, 4],
+        "alkaa": "15:00",
+        "paattyy": "20:00",
+        "selite": "Kesällä"
+      },
+      {
+        "viikonpaivat": [6],
+        "alkaa": "13:00",
+        "paattyy": "18:00",
+        "selite": "Kesällä"
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "15:00",
+        "paattyy": "19:00",
+        "selite": "Kesällä"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto"],
+    "pisteet": 31,
+    "arvioinnit": {
+      "loylyt": "17/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Kaupungin ylläpitämässä saunassa on mukavat sähkösaunan löylyt. Lämpötila pysyy siedettävänä, joten lauteilla jaksaa istua kauemmin. Sauna on paikoin ahdas. Hinta on Pirkanmaan edullisimpia.",
+    "huomioita": "Uimaportaat on korjattu paremmiksi."
+  },
+  {
+    "id": 57,
+    "sijoitus": 57,
+    "nimi": "Rantaterassin sauna",
+    "sijainti": {
+      "kunta": "Virrat",
+      "osoite": "Pohjolantie 5, Virrat"
+    },
+    "hinta": "5€ (jäsenet 4€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 3],
+        "alkaa": "17:00",
+        "paattyy": "21:00",
+        "selite": "Talvikaudella"
+      },
+      {
+        "viikonpaivat": [2, 5],
+        "alkaa": "15:00",
+        "paattyy": "21:00",
+        "selite": "Talvikaudella"
+      }
+    ],
+    "ominaisuudet": ["avanto", "ravintola"],
+    "pisteet": 31,
+    "arvioinnit": {
+      "loylyt": "16/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Sijaitsee luonnonkauniilla paikalla Virtain laivarannassa. Saunatoimintaa pyörittää Suomen Ladun jäsenjärjestö. Löylyt ovat kosteat ja pehmeät, mutta eivät kovin kuumat. Ylälauteelle mahtuu vain vähän ihmisiä. Ilmapiiri on leppoisa.",
+    "huomioita": "Sauna on siirretty kesällä 2021 uuteen rakennukseen, jossa on erilliset tilat naisille ja miehille. Aamulehti ei ole vielä ehtinyt arvostella uutta saunaa."
+  },
+  {
+    "id": 56,
+    "sijoitus": 56,
+    "nimi": "Arajärvi",
+    "sijainti": {
+      "kunta": "Akaa",
+      "osoite": "Arajärventie 603, Viiala (Akaa)"
+    },
+    "hinta": "Kausimaksu 30€ tai kertamaksu 2€",
+    "aukioloajat": [],
+    "tila": "Nykyään tilauskäytössä",
+    "ominaisuudet": ["puusauna", "avanto"],
+    "pisteet": 32,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Yksi Pirkanmaan tuntemattomimmista saunoista, sijaitsee rauhassa metsän reunassa kauniin Arajärven rannalla. Puukiuas lämpenee saunojien itsensä lämmittämänä. Löylyt ovat pehmeät ja pitkät. Pukuhuone on yhteinen eikä suihkua ole. Ei ruuhkia.",
+    "huomioita": ""
+  },
+  {
+    "id": 55,
+    "sijoitus": 55,
+    "nimi": "Särkijärvi",
+    "sijainti": {
+      "kunta": "Vesilahti",
+      "osoite": "Punkalaitumentie 474, Vesilahti"
+    },
+    "hinta": "Kausimaksu 30€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3],
+        "alkaa": "17:00",
+        "paattyy": "21:00",
+        "selite": "Talvisin"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto"],
+    "pisteet": 32,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Vesilahden avantouimareiden vuokraamat tilat Narvan kylässä. Tunnelma on verraton. Suurikokoinen Narvi-kiuas antaa kosteat ja lempeät löylyt. Reitti avannolle voi olla liukas. Pukuhuone on yhteinen. Erityisen lämmin vastaanotto ensikertalaiselle.",
+    "huomioita": ""
+  },
+  {
+    "id": 54,
+    "sijoitus": 54,
+    "nimi": "Kiimajärven rantasauna",
+    "sijainti": {
+      "kunta": "Sastamala",
+      "osoite": "Pohjanmaantie 981, Sastamala"
+    },
+    "hinta": "3€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [4, 7],
+        "alkaa": "17:00",
+        "paattyy": "20:00",
+        "selite": "Talvikaudella pääsiäiseen asti. Sunnuntaisin 15-19."
+      },
+      {
+        "viikonpaivat": [2, 3, 4],
+        "alkaa": "15:00",
+        "paattyy": "20:00",
+        "selite": "Kesällä koulujen loma-aikana."
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "uimaranta", "myyntiä"],
+    "pisteet": 32,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Kaupungin rantasauna kauniilla paikalla Kiimajärven rannalla. Kompaktin kokoisen sähkösaunan löylyt ovat napakat. Juoma- ja jäätelömyynti on bonus. Heikkoutena epäsiisteys ja epäselvät opasteet.",
+    "huomioita": ""
+  },
+  {
+    "id": 53,
+    "sijoitus": 53,
+    "nimi": "Rantala",
+    "sijainti": {
+      "kunta": "Lempäälä",
+      "osoite": "Ruodasjärventie 50, Lempäälä"
+    },
+    "hinta": "Talviuintimaksu 80€, maanantain vuoro 6€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1],
+        "alkaa": "17:00",
+        "paattyy": "21:00",
+        "selite": "Ennakkovarauksella (Lempo-Volley)"
+      },
+      {
+        "viikonpaivat": [2, 4, 7],
+        "alkaa": "16:30",
+        "paattyy": "21:30",
+        "selite": "Lempäälän Kisan vuorot. Sunnuntaisin 15-21:30."
+      }
+    ],
+    "tila": "Uudet uimarit eivät pääse saunomaan talviuintikaudella suuren kävijämäärän vuoksi.",
+    "ominaisuudet": ["sähkösauna", "avanto", "erilliset saunat"],
+    "pisteet": 32,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "1/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Lempäälän Kisan ylläpitämä rantasauna Ruodasjärven rannalla. Miehet ja naiset saunovat erillään. Pieni sähkösauna tarjoaa muhevat löylyt. Uimaan mennään kiikkerältä ponttoonilaiturilta. Tiivis tunnelma.",
+    "huomioita": ""
+  },
+  {
+    "id": 52,
+    "sijoitus": 52,
+    "nimi": "Lammasniemen sauna",
+    "sijainti": {
+      "kunta": "Vesilahti",
+      "osoite": "Lammasniementie 70, Vesilahti"
+    },
+    "hinta": "5€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2],
+        "alkaa": "17:00",
+        "paattyy": "20:00",
+        "selite": "Marraskuun alusta maaliskuun loppuun."
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto"],
+    "pisteet": 32,
+    "arvioinnit": {
+      "loylyt": "18/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Sijaitsee luonnonkauniilla paikalla. Pukutilat ovat ahtaat, ja lauteille mahtuu 5–6 saunojaa. Polku laiturille on hieman hankala. Tunnelma on välitön ja myös lapset ovat löytäneet paikan.",
+    "huomioita": "Osuuskunnan pyörittämän saunan pääsymaksuista osa ohjataan hyväntekeväisyyteen."
+  },
+  {
+    "id": 51,
+    "sijoitus": 51,
+    "nimi": "Jyrmysjärven avantosauna",
+    "sijainti": {
+      "kunta": "Sastamala",
+      "osoite": "Suodenniementie 23, Sastamala"
+    },
+    "hinta": "6€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3],
+        "alkaa": "16:00",
+        "paattyy": "19:00",
+        "selite": ""
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto"],
+    "pisteet": 33,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Pirkanmaan tuntemattomimpia yleisiä saunoja, vaikka toimintaa on ollut jo 1980-luvulta lähtien. Löylyyn mahtuu vain viisi henkeä. Ei suihkuja. Puukiukaan löylyt ovat verrattoman kosteat ja ilmapiiri on erinomainen; vieras otetaan avosylin vastaan.",
+    "huomioita": ""
+  },
+  {
+    "id": 50,
+    "sijoitus": 50,
+    "nimi": "Kuhmalahden rantasauna",
+    "sijainti": {
+      "kunta": "Kangasala",
+      "osoite": "Uittomiehentie 149, Kangasala"
+    },
+    "hinta": "5€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [4],
+        "alkaa": "17:00",
+        "paattyy": null,
+        "selite": "Lokakuun alusta huhtikuun loppuun. Joustavat sauna-ajat."
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto"],
+    "pisteet": 33,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Pitkään kyläläisten salaisuutena pysynyt saunaparatiisi. Kunnan vanha saunarakennus idyllisellä paikalla Längelmäveden rannalla. Puukiuas antaa lempeät ja kosteat löylyt, ja tunnelma on kuin kesämökillä. Pesutilat ovat yhteiset.",
+    "huomioita": ""
+  },
+  {
+    "id": 49,
+    "sijoitus": 49,
+    "nimi": "Kurjenrannan sauna",
+    "sijainti": {
+      "kunta": "Ylöjärvi",
+      "osoite": "Kurjentie, Viljakkala"
+    },
+    "hinta": "Kausimaksu 30€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3],
+        "alkaa": "17:00",
+        "paattyy": "20:00",
+        "selite": "Kesällä"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "uimaranta", "grillipaikka"],
+    "pisteet": 33,
+    "arvioinnit": {
+      "loylyt": "17/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Kyläyhdistyksen ylläpitämä idyllinen ja viehättävä rantasauna. Jatkuvalämmitteinen puukiuas antaa erinomaisen kosteat löylyt, mutta lämpötila voi laskea ramppaamisen takia. Erityisesti lasten suosiossa. Saunalta voi ostaa pientä purtavaa.",
+    "huomioita": ""
+  },
+  {
+    "id": 48,
+    "sijoitus": 48,
+    "nimi": "Hirsilinna",
+    "sijainti": {
+      "kunta": "Ylöjärvi",
+      "osoite": "Hevossaarentie 91, Kuru"
+    },
+    "hinta": "2€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3, 7],
+        "alkaa": "17:00",
+        "paattyy": "19:30",
+        "selite": "Talvisin"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto"],
+    "pisteet": 33,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Sotaveteraanien rakentama rantasauna. Miehet ja naiset erotettu verholla, koska erillisiä pukuhuoneita ei ole. Sopu antaa sijaa myös suihkussa. Sähkökiuas lämmittää saunan 90-asteiseksi ja löylyt ovat makoisan kosteat.",
+    "huomioita": "Saunominen on uhattuna, sillä Ylöjärven kaupunki on harkinnut Hirsilinnan myyntiä. Myyntiaikeista on toistaiseksi luovuttu paikallisten vastustuksen ansiosta."
+  },
+  {
+    "id": 47,
+    "sijoitus": 47,
+    "nimi": "Lavajärven Leirirannan sauna",
+    "sijainti": {
+      "kunta": "Hämeenkyrö",
+      "osoite": "Komintie 476, Hämeenkyrö"
+    },
+    "hinta": "2€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [4],
+        "alkaa": "18:00",
+        "paattyy": "20:00",
+        "selite": "Kesäisin pääasiassa parittomien viikkojen torstaina."
+      }
+    ],
+    "ominaisuudet": ["puusauna", "uimaranta"],
+    "pisteet": 33,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Paikallisen kyläyhdistyksen ylläpitämä kesäpaikka, luonnonkaunis ja piilotettu aarre. Puusaunan löylyt ovat makean kosteat, ja saunojat voivat itse vaikuttaa lämpötilaan lisäämällä puita. Ei erillisiä pukuhuoneita tai suihkua. Sopii lapsiperheille.",
+    "huomioita": ""
+  },
+  {
+    "id": 46,
+    "sijoitus": 46,
+    "nimi": "Pappilanniemen sauna",
+    "sijainti": {
+      "kunta": "Sääksmäki",
+      "osoite": "Pappilanniemi 51, Sääksmäki"
+    },
+    "hinta": "ilmainen",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1],
+        "alkaa": "17:00",
+        "paattyy": "21:00",
+        "selite": "Talvikaudella. Naiset 17-19, miehet 19-21."
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto", "erilliset vuorot"],
+    "pisteet": 33,
+    "arvioinnit": {
+      "loylyt": "18/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Seurakunnan kurssikeskuksen sauna, yksi Pirkanmaan salaisimmista. Tilavasta saunasta aukeaa upeat näkymät Vanajavedelle. Sähkökiuas on tehokas, mutta löylyt olivat testikäynnillä kuivat vähäisen saunojamäärän vuoksi. Luonto ja hiljaisuus ovat läsnä.",
+    "huomioita": "Saunominen on ilmaista ja erillisten vuorojen ansiosta voi saunoa ilman uima-asua."
+  },
+  {
+    "id": 45,
+    "sijoitus": 45,
+    "nimi": "Reippi",
+    "sijainti": {
+      "kunta": "Pirkkala",
+      "osoite": "Reipintie 43, Pirkkala"
+    },
+    "hinta": "6€ (lapset 2€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 3],
+        "alkaa": "17:00",
+        "paattyy": "20:00",
+        "selite": "Talvikaudella"
+      },
+      {
+        "viikonpaivat": [6],
+        "alkaa": "14:00",
+        "paattyy": "18:00",
+        "selite": "Talvikaudella"
+      },
+      {
+        "viikonpaivat": [2, 3, 4, 5],
+        "alkaa": "14:00",
+        "paattyy": "20:00",
+        "selite": "Kesällä"
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "14:00",
+        "paattyy": "18:00",
+        "selite": "Kesällä"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto", "erilliset saunat"],
+    "pisteet": 33,
+    "arvioinnit": {
+      "loylyt": "18/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Saunalla on pitkä historia luonnonkauniilla paikalla. Tilat ovat ahtaat ja kulku avantolaiturille voi olla liukas. Maisema Pyhäjärvelle on verraton. Miehet ja naiset saunovat erillään. Takkatupa on nostalginen.",
+    "huomioita": "Kiuas on uusittu ja löylyt parantuneet. Suunniteltu savusaunahanke peruuntui. Vanhan saunarakennuksen kohtalo on epävarma ja sen säilyttämisen puolesta on kerätty adressia."
+  },
+  {
+    "id": 44,
+    "sijoitus": 44,
+    "nimi": "Vesaniemi",
+    "sijainti": {
+      "kunta": "Kangasala",
+      "osoite": "Vesaniementie 15, Kangasala"
+    },
+    "hinta": "7€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 3, 4, 5],
+        "alkaa": "17:00",
+        "paattyy": "21:00",
+        "selite": "Talviuintikausi syyskuusta toukokuuhun. Tarkat päivät vaihtelevat kuukausittain."
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "17:00",
+        "paattyy": "21:00",
+        "selite": "Tammi-maaliskuussa"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto", "erilliset saunat"],
+    "pisteet": 33,
+    "arvioinnit": {
+      "loylyt": "16/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "3/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "3/3",
+      "hinta": "2/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Uintiseurojen ylläpitämä talviuintipaikka, jossa on saunottu vuodesta 1975. Miehille ja naisille on omat saunansa. Sähkösaunan löylyt ovat lempeän pehmoiset. Ylivoimainen valtti on iso avanto, jossa voi harjoitella kilpailuja varten.",
+    "huomioita": "Pääsymaksun voi maksaa myös pankkikortilla."
+  },
+  {
+    "id": 43,
+    "sijoitus": 43,
+    "nimi": "Käenkoski",
+    "sijainti": {
+      "kunta": "Parkano",
+      "osoite": "Hiihtokeskuksentie 35, Parkano"
+    },
+    "hinta": "6€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [4],
+        "alkaa": "17:30",
+        "paattyy": "21:00",
+        "selite": "Talvikausi vappuun asti"
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "16:30",
+        "paattyy": "20:00",
+        "selite": "Talvikausi vappuun asti"
+      }
+    ],
+    "ominaisuudet": ["puoliautomaattinen löylynheitto", "avanto", "kahvitarjoilu"],
+    "pisteet": 34,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Parkanon Urheilijoiden tukikohdan remontoitu ja tilava sauna. Löylyt ovat kosteat. Pukuhuone on hieman viileä, mutta ilmainen kahvi ja pulla korvaavat puutteen. Taival avantoon voi olla pakkasella liukas. Tunnelma on verraton ja ensikertalainen otetaan sydämellisesti vastaan.",
+    "huomioita": "Erikoisuutena puoliautomaattinen järjestelmä, jossa löylyä heitetään hanaa avaamalla, mikä takaa tasalaatuiset löylyt."
+  },
+  {
+    "id": 42,
+    "sijoitus": 42,
+    "nimi": "Rajalansaaren savusauna",
+    "sijainti": {
+      "kunta": "Luopioinen",
+      "osoite": "Rajalansaari, Luopioinen"
+    },
+    "hinta": "5€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3],
+        "alkaa": "18:00",
+        "paattyy": "21:30",
+        "selite": "Aiempina kesinä"
+      }
+    ],
+    "ominaisuudet": ["savusauna", "saaressa"],
+    "pisteet": 34,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "1950-luvulla rakennettu savusauna Kukkian saaressa. Saunaan pääsee omalla veneellä tai talkoolaisten soutuveneellä. Löylyt ovat perinteisen savusaunan tyyliin kosteat, pehmeät ja pitkät, mutta lämpöä voisi olla enemmän. Suurin puute on ahtaus (6 henkeä).",
+    "huomioita": "Salmeen on suunnitteilla lossiyhteys."
+  },
+  {
+    "id": 41,
+    "sijoitus": 41,
+    "nimi": "Kostianvirran sauna",
+    "sijainti": {
+      "kunta": "Pälkäne",
+      "osoite": "Veteraanipolku 1, Pälkäne"
+    },
+    "hinta": "Vuosimaksu 60 euroa (vain jäsenille)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 4],
+        "alkaa": "16:00",
+        "paattyy": "21:00",
+        "selite": "Talvikausi (lokakuu-huhtikuu)"
+      },
+      {
+        "viikonpaivat": [1, 5],
+        "alkaa": "18:00",
+        "paattyy": "22:00",
+        "selite": "Kesällä"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto"],
+    "pisteet": 34,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Pälkäneen talviuimareiden rantasauna idyllisellä paikalla Kostianvirran varrella. Ei erillisiä suihkutiloja, peseytyminen tapahtuu kotoisasti löylyjen lomassa. Piha ja laituri voivat olla talvella vaarallisen liukkaita. Avannossa mahtuu uimaan pidemmänkin lenkin.",
+    "huomioita": "Sauna on tarkoitettu vain jäsenille."
+  },
+  {
+    "id": 40,
+    "sijoitus": 40,
+    "nimi": "Flou Sauna Ravintola",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Ratinan rantatie 6, Tampere (kesä) / Jalkasaarentie 7, Tampere (talvi)"
+    },
+    "hinta": "13,50€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3, 4, 5],
+        "alkaa": "16:00",
+        "paattyy": "22:00",
+        "selite": "Kesäkaudella Ratinassa"
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "08:00",
+        "paattyy": "22:00",
+        "selite": "Kesäkaudella Ratinassa"
+      },
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5],
+        "alkaa": "16:00",
+        "paattyy": "22:00",
+        "selite": "Talvikaudella Rosendahlissa"
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "08:00",
+        "paattyy": "20:00",
+        "selite": "Talvikaudella Rosendahlissa"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto", "ravintola", "kelluva"],
+    "pisteet": 34,
+    "arvioinnit": {
+      "loylyt": "16/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "3/3",
+      "aukioloajat": "3/3",
+      "hinta": "1/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Erikoisuutena saunassa soiva moderni poppimusiikki. Kaksi sähkösaunaa, joiden löylyt ovat olleet aluksi löysät (71-72 astetta). Pulahduspaikka ja kompaktit pukutilat. Suihkujen lämpötilaa ei voi itse säätää. Saunaravintolan palvelut iso plussa.",
+    "huomioita": "Kiukaat on nyt uusittu ja raporttien mukaan löylyt ovat parantuneet. Aamulehti ei ole vielä tehnyt tarkastuskäyntiä."
+  },
+  {
+    "id": 39,
+    "sijoitus": 39,
+    "nimi": "Tehdasaukion sauna",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Tehdaskartanonkatu 38, Tampere"
+    },
+    "hinta": "8€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [5, 6, 7],
+        "alkaa": "15:00",
+        "paattyy": "19:00",
+        "selite": "Toukokuusta 2025 alkaen."
+      }
+    ],
+    "ominaisuudet": ["puusauna", "itsepalvelulämmitys", "ei uintimahdollisuutta"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "21/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "2/3",
+      "hinta": "2/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Yhteisöllinen sauna, jota kävijä lämmittää itse. Tehokas jatkuvalämmitteinen puukiuas antaa kosteat ja riittävän lämpimät löylyt. Lauteet on rakennettu korkealle. Pukutilat graffitein koristelluissa konteissa. Miljöö entisen sellutehtaan ytimessä on kiehtova. Ei uintimahdollisuutta.",
+    "huomioita": "Saunan nimi on muuttunut Hiedanrannan saunaksi ja on osa Tehtaan terassi -kokonaisuutta. Lämmitysprosessi on monimutkainen ja vaatii aikaa."
+  },
+  {
+    "id": 38,
+    "sijoitus": 38,
+    "nimi": "Halkoniemi",
+    "sijainti": {
+      "kunta": "Nokia",
+      "osoite": "Ojanteentie 16, Nokia"
+    },
+    "hinta": "8€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2, 4],
+        "alkaa": "16:00",
+        "paattyy": "23:00",
+        "selite": "Talvikaudella"
+      },
+      {
+        "viikonpaivat": [3],
+        "alkaa": "16:00",
+        "paattyy": "22:00",
+        "selite": "Talvikaudella"
+      },
+      {
+        "viikonpaivat": [5],
+        "alkaa": "17:00",
+        "paattyy": "23:30",
+        "selite": "Talvikaudella (savusauna vain jäsenille)"
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "14:00",
+        "paattyy": "22:00",
+        "selite": "Talvikaudella"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "savusauna (vain jäsenille)", "avanto"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "3/3",
+      "hinta": "2/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Nokian Talviuimarien sauna rauhallisella paikalla Pyhäjärven rannassa. Tilavan sähkösaunan löylyt ovat kuumat ja kosteat, mutta laatu vaihtelee kävijämäärän mukaan. Tilat ovat siistit ja laituri hyvin valaistu. Heikkoutena pukuhuoneen kuumuus.",
+    "huomioita": "Saunaan on tehty laajennus talvella 2025. Uusi löylyhuone on jo käytössä ja pukuhuoneremontti on alkamassa. Remontti valmistuu kokonaisuudessaan huhtikuun loppuun mennessä 2026."
+  },
+  {
+    "id": 37,
+    "sijoitus": 37,
+    "nimi": "Taidesauna",
+    "sijainti": {
+      "kunta": "Mänttä",
+      "osoite": "Joenniementie 47, Mänttä"
+    },
+    "hinta": "14€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2],
+        "alkaa": "13:00",
+        "paattyy": "19:00",
+        "selite": "Ympäri vuoden"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto", "poreallas", "museo", "ravintola"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "18/25",
+      "miljoo": "4/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "3/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "3/3",
+      "aukioloajat": "1/3",
+      "hinta": "1/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Todellinen saunakulttuuriteko Mäntän Gösta-museon rannassa. Yhdistelee huippuarkkitehtuuria, muotoilua ja taidetta. Kokonaisuus on tyylikäs ja vaikuttava. Sähkökiukaan löylyt jäivät testikäynnillä vaisuiksi. Oheispalvelut ykkösluokkaa: poreallas, uusi laituri ja vieressä yksi Pirkanmaan parhaista ravintoloista.",
+    "huomioita": "Eksotiikka on taattu ulkomaisille vieraille."
+  },
+  {
+    "id": 36,
+    "sijoitus": 36,
+    "nimi": "Urkin piilopirtti",
+    "sijainti": {
+      "kunta": "Hämeenkyrö",
+      "osoite": "Sasintie 440, Pinsiö"
+    },
+    "hinta": "16€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [5],
+        "alkaa": "16:00",
+        "paattyy": "21:00",
+        "selite": "Heinäkuussa"
+      }
+    ],
+    "ominaisuudet": ["sähkölämmitteinen savusauna", "perinteinen sähkösauna", "ravintola"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "2/3",
+      "oheispalvelut": "3/3",
+      "aukioloajat": "1/3",
+      "hinta": "1/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Taidehenkinen kokous- ja tapahtumakeskus, jonka nimi viittaa Urho Kekkoseen. Vanha, sähköllä lämpiävä savusauna tarjoaa syvät löylyt. Maisema on vaikuttava. Ruuhkia tasaa perinteinen sähkösauna. Pukutilat ovat puutteelliset, mutta virvokkeita saa laajasti.",
+    "huomioita": ""
+  },
+  {
+    "id": 35,
+    "sijoitus": 35,
+    "nimi": "Vanhan pappilan sauna",
+    "sijainti": {
+      "kunta": "Lempäälä",
+      "osoite": "Rovastintie 3, Lempäälä"
+    },
+    "hinta": "0€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2],
+        "alkaa": "18:00",
+        "paattyy": "21:00",
+        "selite": "Kesäsauna (touko-syyskuu), vain naisille"
+      },
+      {
+        "viikonpaivat": [4],
+        "alkaa": "17:30",
+        "paattyy": "20:00",
+        "selite": "Kesäsauna (touko-syyskuu), vain miehille"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "erilliset vuorot", "iltahartaus"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Piilossa ollut hirsisauna viime vuosisadan alusta, joka on nykyään kesäisin avoinna. Tilat on modernisoitu. Moderni puukiuas antaa mukavan kosteat löylyt. Sijainti on poikkeuksellisen kaunis. Laituri on hieman ongelmallinen.",
+    "huomioita": "Saunaillan erikoisuutena on iltahartaus makkara- ja virvoketarjoilun kera. Saunominen on ilmaista."
+  },
+  {
+    "id": 34,
+    "sijoitus": 34,
+    "nimi": "Säynäniemi",
+    "sijainti": {
+      "kunta": "Orivesi",
+      "osoite": "Säynäniementie 100, Orivesi"
+    },
+    "hinta": "5€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3],
+        "alkaa": "17:00",
+        "paattyy": "20:00",
+        "selite": "Naiset 17-18:30, miehet 18:30-20"
+      },
+      {
+        "viikonpaivat": [6],
+        "alkaa": "18:00",
+        "paattyy": "21:00",
+        "selite": "Naiset 18-19:30, miehet 19:30-21"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto", "erilliset vuorot"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Mämmilän Norppien ylläpitämä rantasauna leirintäalueella. Puukiuas antaa kostean syvät löylyt. Oheistiloissa paistaa ajan patina. Ei ruuhkaa.",
+    "huomioita": "Uimapaikka on siirretty paremmalle paikalle, vesi on nyt puhtaampaa ja syvempää."
+  },
+  {
+    "id": 33,
+    "sijoitus": 33,
+    "nimi": "Pihlajaniemen sauna",
+    "sijainti": {
+      "kunta": "Pirkkala",
+      "osoite": "Pappilantie 63, Pirkkala"
+    },
+    "hinta": "vapaaehtoinen maksu 5€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2],
+        "alkaa": "17:30",
+        "paattyy": "20:00",
+        "selite": "Vain miehille"
+      },
+      {
+        "viikonpaivat": [3],
+        "alkaa": "17:30",
+        "paattyy": "20:00",
+        "selite": "Vain naisille"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto", "erilliset vuorot", "iltahartaus"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Pirkkalan seurakunnan uusi ja näyttävä saunarakennus, Pirkanmaan yleisten saunojen aatelia. Sähkökiukaan löylyt ovat kosteat ja lempeät. Tunnelma on hulvattoman vieraanvarainen. Saunahetki päättyy iltahartauteen.",
+    "huomioita": "Matka avantoon on pitkä, pimeä ja pakkasella vaarallisen liukas."
+  },
+  {
+    "id": 32,
+    "sijoitus": 32,
+    "nimi": "Mäyriän sauna",
+    "sijainti": {
+      "kunta": "Lempäälä",
+      "osoite": "Vanha Rantatie 105, Lempäälä"
+    },
+    "hinta": "2€",
+    "aukioloajat": [],
+    "tila": "Suljettu lokakuussa 2023.",
+    "ominaisuudet": ["puusauna", "erilliset saunat"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Sijaitsi rauhallisella ja luonnonkauniilla paikalla Pyhäjärven rannalla. Miehet ja naiset saunoivat omissa saunoissaan. Puusaunan löylyt olivat kosteat ja pehmeät, ja seura oli mitä parhainta. Saunalle pääsi vaikka omalla laivalla.",
+    "huomioita": "Sauna on suljettu kesästä 2022 alkaen. Myös leirintäalueen toiminta on loppumassa."
+  },
+  {
+    "id": -1,
+    "sijoitus": null,
+    "nimi": "Juokslahden saunakylä",
+    "sijainti": {
+      "kunta": "Jämsä",
+      "osoite": "Pataniemi 420, Jämsä"
+    },
+    "hinta": "15€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [6],
+        "alkaa": "16:00",
+        "paattyy": "20:00",
+        "selite": "Kesälauantaisin toukokuusta alkaen."
+      }
+    ],
+    "tila": "Ei Pirkanmaalla, ei sijoitusta.",
+    "ominaisuudet": ["useita savusaunoja"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "23/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "3/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "1/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Maailmanluokan nähtävyys Päijänteen rannalla, jossa on 23 savusaunaa, joista osa on lämpimänä kesälauantaisin. Löylyt ovat makoisat, mutta laatu vaihtelee. Paikka on vielä keskeneräinen ja uimapaikka kaipaisi laituria.",
+    "huomioita": "Saunakylän kehittämistä on rahoitettu pääosin lainarahalla ja toimintaa pyöritetty talkoilla."
+  },
+  {
+    "id": 31,
+    "sijoitus": 31,
+    "nimi": "Hauralan avantosauna",
+    "sijainti": {
+      "kunta": "Lempäälä",
+      "osoite": "Hauralantie 200, Lempäälä"
+    },
+    "hinta": "8€",
+    "aukioloajat": [],
+    "tila": "Toiminta päättyi maaliskuun 2023 puolivälissä.",
+    "ominaisuudet": ["kaksi puusaunaa", "avanto"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "21/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "2/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "2/3",
+      "hinta": "1/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Ainoalaatuinen sauna luonnonkauniilla rannalla satavuotiaan asuintalon pihapiirissä. Käytössä oli kaksi puusaunaa: moderni piharakennuksessa ja vanha rantasauna, jossa oli harvinainen muuripata. Rantasaunan uusi, suuri puukiuas antoi kuuman kosteat löylyt. Polku rantaan oli jyrkkä ja hankala.",
+    "huomioita": "Edusti uudenlaista konseptia, jossa talon asukas avasi oman saunansa yleiseen käyttöön."
+  },
+  {
+    "id": 30,
+    "sijoitus": 30,
+    "nimi": "Haihunkosken sauna",
+    "sijainti": {
+      "kunta": "Akaa",
+      "osoite": "Rautatienkatu 24, Akaa"
+    },
+    "hinta": "8€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3],
+        "alkaa": "17:00",
+        "paattyy": "19:00",
+        "selite": "Vain naisille"
+      },
+      {
+        "viikonpaivat": [4],
+        "alkaa": "17:00",
+        "paattyy": "19:00",
+        "selite": "Vain miehille"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "ei uintimahdollisuutta", "kahvila"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "21/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "1/3",
+      "hinta": "2/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Sijaitsee vanhassa navetassa luonnonkauniilla paikalla Tarpianjoen rantatörmällä. Perinteinen puusauna antaa kuumat ja kosteat löylyt. Suihkua ei ole. Kaksi pahaa puutetta: ei uimapaikkaa voimakkaan virtauksen vuoksi, ja saunan lämpö leviää ahtaaseen pukuhuoneeseen. Kahvila samassa rakennuksessa.",
+    "huomioita": ""
+  },
+  {
+    "id": 29,
+    "sijoitus": 29,
+    "nimi": "Kesäpirtti",
+    "sijainti": {
+      "kunta": "Ylöjärvi",
+      "osoite": "Kesäpirtintie 48, Ylöjärvi"
+    },
+    "hinta": "6€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5, 6, 7],
+        "alkaa": null,
+        "paattyy": null,
+        "selite": "Kesäisin, vaihtelevat vuorot naisille ja miehille."
+      }
+    ],
+    "ominaisuudet": ["kaksi puusaunaa", "erilliset vuorot", "ponnahduslauta"],
+    "pisteet": 35,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "3/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Työväenopiston opiskelijoiden kesänviettopaikassa on kaksi puulämmitteistä saunaa, jotka lämpiävät kesäisin joka ilta. Naiset ja miehet saunovat omilla vuoroillaan. Löylyt ovat kosteanlämpimät, mutta eivät liian kuumat (n. 80 astetta). Maisemat Näsiselälle ovat huikeat.",
+    "huomioita": "Iso sauna on erikoinen, koska siellä saunotaan parvella."
+  },
+  {
+    "id": 28,
+    "sijoitus": 28,
+    "nimi": "Ikaalisten kylpylän rantasauna",
+    "sijainti": {
+      "kunta": "Ikaalinen",
+      "osoite": "Huvilatie 2, Ikaalinen"
+    },
+    "hinta": "8€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2, 3, 5, 6],
+        "alkaa": "15:00",
+        "paattyy": "20:00",
+        "selite": "Aukioloajat vaihtelevat kesän mittaan. Tarkista tarkemmat ajat."
+      }
+    ],
+    "ominaisuudet": ["puusauna", "uimaranta", "kylpyläpalvelut"],
+    "pisteet": 36,
+    "arvioinnit": {
+      "loylyt": "18/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "3/3",
+      "aukioloajat": "3/3",
+      "hinta": "2/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Jatkuvalämmitteistä puusaunaa hoitaa kylpylän saunamajuri. Sijaitsee luonnonkauniilla paikalla. Löylyt ovat kosteat mutta vaativalle saunojalle liian lempeät (70 astetta). Suihkut yhteiset, miesten pukuhuone ahdas. Palvelu on ykkösluokkaa.",
+    "huomioita": "Pääsymaksun voi maksaa kortilla. Oheispalvelut kylpylässä ovat lähellä."
+  },
+  {
+    "id": 27,
+    "sijoitus": 27,
+    "nimi": "Aurajärven rantasauna",
+    "sijainti": {
+      "kunta": "Sastamala",
+      "osoite": "Aurajärventie 757, Sastamala"
+    },
+    "hinta": "2€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5],
+        "alkaa": "14:00",
+        "paattyy": "20:00",
+        "selite": "Juhannuksesta alkaen"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "uimaranta", "myyntiä"],
+    "pisteet": 36,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "3/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Syrjäinen sauna luonnonkauniilla paikalla kirkasvetisen Aurajärven rannalla. Sähkösauna on rakennettu oikeaoppisesti ja löylyt ovat pitkät, kosteat ja sopivan kuumat. Saunatuvasta voi ostaa pientä purtavaa. Matkan arvoinen, jos löytää perille.",
+    "huomioita": "Paikallinen Äetsän Kunto 81 osti saunan omistukseensa vuonna 2021. Remonttia tehty keväällä 2025."
+  },
+  {
+    "id": 26,
+    "sijoitus": 26,
+    "nimi": "Apia",
+    "sijainti": {
+      "kunta": "Valkeakoski",
+      "osoite": "Saunapolku 7, Valkeakoski"
+    },
+    "hinta": "6€ (jäsenille 4€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2, 4, 5],
+        "alkaa": "14:00",
+        "paattyy": "21:00",
+        "selite": "Talvikausi (lokakuu-huhtikuu)"
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "11:00",
+        "paattyy": "20:00",
+        "selite": "Talvikausi (lokakuu-huhtikuu)"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto"],
+    "pisteet": 36,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Apian Avantouimareiden sauna luonnonkauniilla paikalla keskellä kaupunkia. Remontoitu rakennus hohtaa uutuuttaan. Löylyhuone on korkea ja tilava, mutta löylyt vähän epätasaiset. Suihku- ja pukutilat ovat luvattoman ahtaat. Ilmapiiri on kodikas ja leppoisa.",
+    "huomioita": ""
+  },
+  {
+    "id": 25,
+    "sijoitus": 25,
+    "nimi": "Peronsaaren sauna",
+    "sijainti": {
+      "kunta": "Ylöjärvi",
+      "osoite": "Peronsaari, Ylöjärvi"
+    },
+    "hinta": "7€ (lapset 3€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3, 6],
+        "alkaa": null,
+        "paattyy": null,
+        "selite": "Kesäkaudella"
+      }
+    ],
+    "ominaisuudet": ["puusauna", "saaressa", "veneilijöille"],
+    "pisteet": 36,
+    "arvioinnit": {
+      "loylyt": "22/25",
+      "miljoo": "4/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "2/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Sauna pienessä saaressa, joka tarjoaa veneilijöille majoitusta ja saunan. Jatkuvalämmitteisen puusaunan löylyjä pidetään jopa maakunnan parhaina. Löylyt tulevat viiveellä, mutta ovat kuumia ja kosteita. Ehdoton valtti on miljöö keskellä luontoa.",
+    "huomioita": ""
+  },
+  {
+    "id": 24,
+    "sijoitus": 24,
+    "nimi": "Kiikoisten rantasauna",
+    "sijainti": {
+      "kunta": "Sastamala",
+      "osoite": "Rajalahdentie 45, Sastamala"
+    },
+    "hinta": "3€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3, 5, 7],
+        "alkaa": "16:00",
+        "paattyy": "20:00",
+        "selite": "Talvikaudella huhtikuun loppuun asti."
+      },
+      {
+        "viikonpaivat": [2, 4, 7],
+        "alkaa": "16:30",
+        "paattyy": "20:00",
+        "selite": "Kesällä elokuun loppuun asti."
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto"],
+    "pisteet": 36,
+    "arvioinnit": {
+      "loylyt": "18/25",
+      "miljoo": "4/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "3/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Yksi Pirkanmaan salaisista helmistä. Uusi saunarakennus on upea ja toimiva. Löylyissä on pientä ongelmaa, koska lauteet on rakennettu liian alas ja löylyhuone on suuri. Laituri, maisema, ilmapiiri ja palvelu ovat parasta A-luokkaa.",
+    "huomioita": ""
+  },
+  {
+    "id": 23,
+    "sijoitus": 23,
+    "nimi": "Räikkä",
+    "sijainti": {
+      "kunta": "Ylöjärvi",
+      "osoite": "Kuruntie 14, Ylöjärvi"
+    },
+    "hinta": "5€ (lapset 2€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 3, 4],
+        "alkaa": "12:00",
+        "paattyy": "20:00",
+        "selite": "Syyskuun alusta toukokuuhun."
+      },
+      {
+        "viikonpaivat": [6],
+        "alkaa": "11:00",
+        "paattyy": "20:00",
+        "selite": "Syyskuun alusta toukokuuhun."
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto"],
+    "pisteet": 36,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Ylöjärven Ryhdin ylläpitämä sauna urheilukentän huoltorakennuksessa. Sähkökiukaan löylyt ovat mukavan kosteat. Pesu- ja pukutilat ovat siistit. Hinta on alueen edullisimpia. Merkittävänä etuna on aukiolo jo päiväsaikaan.",
+    "huomioita": "Sauna on remontoitu kesällä 2024, mikä paransi löylyjä. Uusi tyyli on tummempi ja tunnelmallisempi."
+  },
+  {
+    "id": 22,
+    "sijoitus": 22,
+    "nimi": "Peltomäki",
+    "sijainti": {
+      "kunta": "Ylöjärvi",
+      "osoite": "Säynäväjärventie 38, Ylöjärvi"
+    },
+    "hinta": "10€",
+    "aukioloajat": [],
+    "tila": "Yrittäjä on lopettanut toimintansa kauden 2023 jälkeen.",
+    "ominaisuudet": ["puusauna", "savusauna", "kesäravintola"],
+    "pisteet": 36,
+    "arvioinnit": {
+      "loylyt": "23/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "3/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "1/3",
+      "hinta": "1/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Peltomäen helmi on kahdella kiukaalla toimiva savusauna, jonka samettisen täyteläiset löylyt ovat parhaimmillaan upeat. Myös jatkuvalämmitteinen puusauna. Tunnelma on tuttavallinen, joskin välillä äijämäinen. Pukutilat ovat epäkäytännölliset. Palveluihin kuuluu mainio kesäravintola.",
+    "huomioita": "Savusaunaan on hankittu uusi Sisu-kiuas kesällä 2020. Uimista on rajoitettu wakeboard-radan käytön aikana."
+  },
+  {
+    "id": 21,
+    "sijoitus": 21,
+    "nimi": "Tursan savusauna",
+    "sijainti": {
+      "kunta": "Urjala",
+      "osoite": "Nuutajärventie 1335A, Urjala"
+    },
+    "hinta": "9€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [6],
+        "alkaa": "17:00",
+        "paattyy": null,
+        "selite": "Kesälauantaisin"
+      }
+    ],
+    "ominaisuudet": ["savusauna", "tekolampi"],
+    "pisteet": 36,
+    "arvioinnit": {
+      "loylyt": "24/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "1/3",
+      "hinta": "1/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Suvilammen matkaparkin savusauna on ilmiö. Kiuas on järeä ja löylyt syvät ja pitkät. Uimaan pääsee pienessä, hieman limaisessa tekolammessa. Suihku ja pesuaineet löytyvät löylyhuoneen nurkasta. Saunahelmi, joka jokaisen saunanautiskelijan on koettava.",
+    "huomioita": "Löylynheittovarustus on parannettu."
+  },
+  {
+    "id": 20,
+    "sijoitus": 20,
+    "nimi": "Saunatemppeli",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Rauhaniementie 23B, Tampere"
+    },
+    "hinta": "11€ (tai 6€ lisämaksu Rauhaniemen saunaan)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5],
+        "alkaa": "17:00",
+        "paattyy": "21:00",
+        "selite": ""
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "16:00",
+        "paattyy": "22:00",
+        "selite": ""
+      }
+    ],
+    "ominaisuudet": ["puusauna", "jurttasauna", "hiljainen sauna", "avanto"],
+    "pisteet": 36,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "4/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "1/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Ainoalaatuinen erikoisuus Rauhaniemen kansankylpylän alueella. Sauna on rakennettu mongolialaistyyppisen jurtan sisään ja sitä lämmittää kaksi puukiuasta. Löylyt ovat kosteat ja viipyilevät, mutta kuumimmat höyryt karkaavat korkeuksiin. Saunatemppeli on hiljainen sauna, jossa voi tavoitella meditatiivista rauhaa.",
+    "huomioita": "Saunalla on oma pieni, suloinen avanto."
+  },
+  {
+    "id": 19,
+    "sijoitus": 19,
+    "nimi": "Suomensaari",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Suomensaarenkatu 9, Tampere"
+    },
+    "hinta": "10€ (eläkel./opisk. 7€, lapset 5€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 3],
+        "alkaa": "16:00",
+        "paattyy": "20:00",
+        "selite": "Talvikaudella"
+      },
+      {
+        "viikonpaivat": [5],
+        "alkaa": "16:00",
+        "paattyy": "21:00",
+        "selite": "Talvikaudella"
+      },
+      {
+        "viikonpaivat": [6],
+        "alkaa": "14:00",
+        "paattyy": "18:00",
+        "selite": "Talvikaudella"
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "15:00",
+        "paattyy": "19:00",
+        "selite": "Talvikaudella"
+      },
+      {
+        "viikonpaivat": [1, 3],
+        "alkaa": "17:00",
+        "paattyy": "21:00",
+        "selite": "Kesällä"
+      },
+      {
+        "viikonpaivat": [5],
+        "alkaa": "18:00",
+        "paattyy": "22:00",
+        "selite": "Kesällä"
+      },
+      {
+        "viikonpaivat": [6],
+        "alkaa": "16:00",
+        "paattyy": "19:00",
+        "selite": "Kesällä"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto"],
+    "pisteet": 36,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "2/3",
+      "hinta": "1/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Tunnettu kipakoista löylyistään, jotka syntyvät kahdesta sähkökiukaasta. Talvisunnuntaisin löylyt ovat miedommat. Suihkutilat ovat pienet ja matka avantoon pidempi. Miljöö on luonnonkaunis ja rauhallinen, ja palvelu poikkeuksellisen ystävällistä.",
+    "huomioita": "Pääsymaksu on noussut 10 euroon. Kahvin ja makkaran myynti on lopetettu."
+  },
+  {
+    "id": 18,
+    "sijoitus": 18,
+    "nimi": "Purnun savusauna",
+    "sijainti": {
+      "kunta": "Orivesi",
+      "osoite": "Mustasaari 63, Orivesi"
+    },
+    "hinta": "15€ (sis. taidenäyttelyn)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 3, 5],
+        "alkaa": "14:00",
+        "paattyy": "17:00",
+        "selite": "Kesäkaudella (15.6.-10.8.). Vaihtuvat vuorot naisille ja miehille."
+      }
+    ],
+    "ominaisuudet": ["savusauna", "erilliset vuorot", "taidenäyttely"],
+    "pisteet": 37,
+    "arvioinnit": {
+      "loylyt": "24/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "1/3",
+      "hinta": "1/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Kesäateljeen isännän itsensä suunnittelema savusauna Koljonselän saaressa. Löylyt ovat niin hyvät kuin savusaunassa voi kuvitella olevan. Koska naiset ja miehet saunovat eri aikoina, saunominen tapahtuu ilman uima-asua. Pukutilat ovat laavun kaltaisessa katoksessa. Ei suihkua.",
+    "huomioita": "Tarjoaa autenttisen lapsuuden kesien savusaunakokemuksen."
+  },
+  {
+    "id": 17,
+    "sijoitus": 17,
+    "nimi": "Laawu Rooftop Terrace & Sauna",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Ratapihankatu 54, Tampere (12. kerros)"
+    },
+    "hinta": "15€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5, 6, 7],
+        "alkaa": "16:00",
+        "paattyy": "22:00",
+        "selite": ""
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "08:00",
+        "paattyy": "11:00",
+        "selite": "Aamusauna"
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "kattoterassi", "ravintola", "erilliset saunat"],
+    "pisteet": 37,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "3/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "3/3",
+      "hinta": "1/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Uniikki yleinen sauna Lapland Hotels Arenan kattoterassilla. Kaksi sähkölämmitteistä saunaa (miehille ja naisille). Löylyhuoneen parametrit ovat hieman pielessä (korkea katto ja kiuas), joten optimaaliset löylyt karkaavat. Puku- ja pesutilat ovat tyylikkäät ja modernit. Näkymät yli Tampereen ovat huikeat.",
+    "huomioita": "Aukioloajat laajenivat kesällä 2024, mikä nosti sijoitusta listalla."
+  },
+  {
+    "id": 16,
+    "sijoitus": 16,
+    "nimi": "Toijalan sataman saunakylä",
+    "sijainti": {
+      "kunta": "Akaa",
+      "osoite": "Satamatie 331, Akaa"
+    },
+    "hinta": "17€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5, 6],
+        "alkaa": "14:00",
+        "paattyy": "21:00",
+        "selite": ""
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "14:00",
+        "paattyy": "20:00",
+        "selite": ""
+      }
+    ],
+    "ominaisuudet": ["kaksi puusaunaa", "telttasauna", "saunalautta", "palju"],
+    "pisteet": 38,
+    "arvioinnit": {
+      "loylyt": "21/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "2/3",
+      "oheispalvelut": "3/3",
+      "aukioloajat": "3/3",
+      "hinta": "1/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Uusi elämysalue, johon kuuluu pieni saunakylä. Kaksi puulämmitteistä saunaa, telttasauna, saunalautta ja palju. Puusaunojen löylyt olivat testikäynnillä kuivat mutta nautinnolliset. Vilvoittava Vanajavesi on lähellä. Alkuvaiheessa havaittiin pieniä lapsuksia, kuten puiden lisäämisen jääminen saunojien vastuulle.",
+    "huomioita": ""
+  },
+  {
+    "id": 15,
+    "sijoitus": 15,
+    "nimi": "Rajaportti",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Pispalan valtatie 9, Tampere"
+    },
+    "hinta": "Ma/Ke 8€, Pe/La 12€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 3],
+        "alkaa": "16:00",
+        "paattyy": "22:00",
+        "selite": ""
+      },
+      {
+        "viikonpaivat": [5, 6],
+        "alkaa": "14:00",
+        "paattyy": "22:00",
+        "selite": ""
+      }
+    ],
+    "ominaisuudet": ["kertalämmitteinen", "historiallinen", "kahvila", "ei uintimahdollisuutta"],
+    "pisteet": 38,
+    "arvioinnit": {
+      "loylyt": "23/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "1/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "3/3",
+      "aukioloajat": "2/3",
+      "hinta": "2/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Suomen vanhin yhä toiminnassa oleva yleinen sauna. Historiallinen miljöö, mutta ei uintimahdollisuutta. Löylyt ovat parhaimmillaan tukevat ja viipyilevät, mutta eivät ole olleet tasalaatuisia. Pukuhuone on ruuhka-aikoina ahdas. Tunnelma voi olla sisäänpäin lämpiävä.",
+    "huomioita": "Arvostelua korjattu heinäkuussa 2021, piste pois kallistuneista hinnoista."
+  },
+  {
+    "id": 14,
+    "sijoitus": 14,
+    "nimi": "Kuuma",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Laukontori 21, Tampere"
+    },
+    "hinta": "12–17€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1],
+        "alkaa": "11:00",
+        "paattyy": "22:00",
+        "selite": ""
+      },
+      {
+        "viikonpaivat": [2, 3, 4, 5],
+        "alkaa": "06:00",
+        "paattyy": "23:00",
+        "selite": "Aamusauna 6-10:30 talvikaudella vappuun asti."
+      },
+      {
+        "viikonpaivat": [6],
+        "alkaa": "12:00",
+        "paattyy": "23:00",
+        "selite": ""
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "15:00",
+        "paattyy": "21:00",
+        "selite": ""
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "kertalämmitteinen puukiuas", "avanto/allas", "ravintola"],
+    "pisteet": 38,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "2/3",
+      "oheispalvelut": "3/3",
+      "aukioloajat": "3/3",
+      "hinta": "1/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Kaksi saunaa: sähkösauna ja kertalämmitteinen puukiuas. Sähkösaunan löylyt tulevat viiveellä. Kertalämmitteisen löylyt ovat kosteammat, mutta löylynheitto on haastavaa. Suihku- ja pukutilat ovat modernit. Muutamia rakenteellisia ansoja, kuten korkeat porrasaskelmat.",
+    "huomioita": "Tarkastuskäynti toukokuussa 2019: yksi lisäpiste parantuneista löylyistä."
+  },
+  {
+    "id": 13,
+    "sijoitus": 13,
+    "nimi": "Tohloppi",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Pyydyspohjankatu 1, Tampere"
+    },
+    "hinta": "6€ (jäsenille 4€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2, 3, 4, 5, 7],
+        "alkaa": "17:30",
+        "paattyy": "21:00",
+        "selite": "Huhtikuun 2025 loppuun asti."
+      },
+      {
+        "viikonpaivat": [6],
+        "alkaa": "16:00",
+        "paattyy": "19:00",
+        "selite": "Huhtikuun 2025 loppuun asti."
+      }
+    ],
+    "ominaisuudet": ["puusauna", "tynnyrisauna", "avanto", "ei suihkua"],
+    "pisteet": 38,
+    "arvioinnit": {
+      "loylyt": "22/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "3/3",
+      "hinta": "3/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Tohlopin uimaseuran talkoilla rakentama kärry-/tynnyrisauna. Tarjoaa hekumallisen lämpimät löylyt, jotka kuumenevat iltaa kohden. Lauantaisin löylyt ovat lempeämpiä. Pahin puute on suihkun puuttuminen. Kesällä uimarannan lapset ruuhkauttavat uintipaikan.",
+    "huomioita": "Erikoisuutena rahastaja, joka toimii samalla saunottajana, hoitaen löylynheiton ja ylläpitäen hyvää henkeä. Parantuneiden löylyjen ja laajentuneiden aukioloaikojen ansiosta saanut lisäpisteitä (11/2024)."
+  },
+  {
+    "id": 12,
+    "sijoitus": 12,
+    "nimi": "Nekalan siirtolapuutarhan sauna",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Muotialantie 43, Tampere"
+    },
+    "hinta": "5€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3, 6],
+        "alkaa": "16:00",
+        "paattyy": "20:00",
+        "selite": "Kesä-elokuussa"
+      },
+      {
+        "viikonpaivat": [6],
+        "alkaa": "16:00",
+        "paattyy": "20:00",
+        "selite": "Touko- ja syyskuussa"
+      }
+    ],
+    "ominaisuudet": ["kertalämmitteinen", "ei uintimahdollisuutta"],
+    "pisteet": 38,
+    "arvioinnit": {
+      "loylyt": "23/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "1/3",
+      "hinta": "3/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Sauna sijaitsee keskellä siirtolapuutarhaa, mutta on avoin myös ulkopuolisille. Tummansyvät löylyt syntyvät luotettavasti kertalämmitteisestä muurista, samantyyppisesti kuin Rajaportilla. Uimamahdollisuutta ei ole, mutta vilvoittelu koivujen katveessa korvaa sen.",
+    "huomioita": "Avoinna vain kesäkaudella."
+  },
+  {
+    "id": 11,
+    "sijoitus": 11,
+    "nimi": "Suolijärvi",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Suolijärvenkatu 5, Tampere"
+    },
+    "hinta": "8€ (lapset 4€, opisk./eläkel. 6€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2, 3, 4, 5, 6, 7],
+        "alkaa": null,
+        "paattyy": null,
+        "selite": "Talvikausi 11.5.2025 asti. Aukioloajat vaihtelevat viikonpäivän mukaan."
+      }
+    ],
+    "ominaisuudet": ["kolme puusaunaa", "kärrysauna", "avanto"],
+    "pisteet": 38,
+    "arvioinnit": {
+      "loylyt": "21/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "2/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "3/3",
+      "hinta": "2/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Uimarannan kärrysauna yllättää. Puukiuas antaa muhevan kosteat löylyt. Rantapolulle on saatu portaat liukkauden estämiseksi. Avannossa mahtuu uimaan kunnon lenkin. Suihkutilat ovat kaukana rannasta. Tunnelma on rennon kansainvälinen.",
+    "huomioita": "Aukioloajat laajentuivat kuuteen päivään viikossa talveksi 2023–2024. Laituri on uusittu kesällä 2024 ja pukeutumistilat pintaremontoitu. Kolmas puusauna valmistui jouluaattona 2024."
+  },
+  {
+    "id": 10,
+    "sijoitus": 10,
+    "nimi": "Alisniemi",
+    "sijainti": {
+      "kunta": "Nokia",
+      "osoite": "Porintie 584, Nokia"
+    },
+    "hinta": "7€ (jäsenet 6€, lapset 2€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [3, 5, 7],
+        "alkaa": "15:00",
+        "paattyy": "21:30",
+        "selite": "Sunnuntaina alkaa klo 13:00."
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto"],
+    "pisteet": 38,
+    "arvioinnit": {
+      "loylyt": "23/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "3/3",
+      "aukioloajat": "2/3",
+      "hinta": "2/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Nokian Invalidien ylläpitämä sauna upeassa miljöössä Alisenjärven rannalla. Löylyt ovat kerrasta toiseen erinomaiset, vaikka saunojat itse hoitavat puiden lisäämisen. Pukuhuoneet ja pesutilat ovat auttamattoman ahtaat.",
+    "huomioita": "Tulipalo vaurioitti kesäsaunaa loppukesästä 2023, mutta se on nyt korjattu. Talvisaunaan on lisätty maanantaiksi lempeiden löylyjen vuoro. Talvisauna menee remonttiin 5.5.2025."
+  },
+  {
+    "id": 9,
+    "sijoitus": 9,
+    "nimi": "Pereensaaren sauna",
+    "sijainti": {
+      "kunta": "Pirkkala",
+      "osoite": "Pereensaarentie 43, Pirkkala"
+    },
+    "hinta": "ark. 14€, vkl 16€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5],
+        "alkaa": "16:00",
+        "paattyy": "22:00",
+        "selite": ""
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "14:00",
+        "paattyy": "22:00",
+        "selite": ""
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto", "kylmäallas", "baari"],
+    "pisteet": 38,
+    "arvioinnit": {
+      "loylyt": "19/25",
+      "miljoo": "4/4",
+      "ilmapiiri": "2/3",
+      "oheistilat": "3/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "3/3",
+      "aukioloajat": "3/3",
+      "hinta": "1/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Ulkoasultaan ja sisustukseltaan Pirkanmaan hienoin yleinen sauna. Saunassa keskitytään enemmän seurusteluun ja nautiskeluun. Saunan seinän kokoisesta ikkunasta avautuu upea järvinäköala. Tiloissa on myös neliasteinen kylmäallas. Tiloja pidetään käytännöllisempinä kuin Laukontorin Kuumassa.",
+    "huomioita": "Alun perin löylyt olivat heikot (67-68 astetta), mutta kiukaat on saatu kuntoon ja löylyt ovat parantuneet (70-80 astetta), mikä toi kaksi lisäpistettä."
+  },
+  {
+    "id": 8,
+    "sijoitus": 8,
+    "nimi": "Tahmelan huvilan sauna",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Uramonkatu 9, Tampere"
+    },
+    "hinta": "ark. 8€, su 12€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2],
+        "alkaa": "15:00",
+        "paattyy": "20:00",
+        "selite": "Sekavuoro"
+      },
+      {
+        "viikonpaivat": [4],
+        "alkaa": "15:00",
+        "paattyy": "20:00",
+        "selite": "Sekavuoro 15-18, naisten vuoro 18-20."
+      },
+      {
+        "viikonpaivat": [7],
+        "alkaa": "14:00",
+        "paattyy": "20:00",
+        "selite": "Sekavuoro"
+      }
+    ],
+    "ominaisuudet": ["kaksi puusaunaa", "avanto", "kahvila"],
+    "pisteet": 39,
+    "arvioinnit": {
+      "loylyt": "21/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "2/3",
+      "oheispalvelut": "3/3",
+      "aukioloajat": "2/3",
+      "hinta": "2/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Tampereen kätketty saunahelmi kulttuurikeskuksen yhteydessä. Kaksi puulämmitteistä saunaa: suuri kellarisauna ja uusi, kompaktimpi pihasauna nimeltä Rantaportti. Molempien löylyt ovat kosteat mutta lempeät (n. 70-72 astetta). Polku uimapaikalle on talvella vaarallinen. Huvilan kahvila palvelee saunojia.",
+    "huomioita": ""
+  },
+  {
+    "id": 7,
+    "sijoitus": 7,
+    "nimi": "Kaupinoja",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Kaupinpuistokatu 1, Tampere"
+    },
+    "hinta": "12€ (lapset 5€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5],
+        "alkaa": "15:00",
+        "paattyy": "21:15",
+        "selite": "Suljettu joka kuukauden toinen tiistai."
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "12:00",
+        "paattyy": "21:15",
+        "selite": "Hiljainen tunti 12-13."
+      }
+    ],
+    "ominaisuudet": ["sähkösauna", "avanto", "erilliset saunat"],
+    "pisteet": 39,
+    "arvioinnit": {
+      "loylyt": "22/25",
+      "miljoo": "4/4",
+      "ilmapiiri": "1/3",
+      "suihku_pukuhuoneet": "3/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "3/3",
+      "hinta": "1/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Tampereen Talviuimareiden modernit tilat upeilla maisemilla. Löylyt ovat kuumat mutta kuivan ilmanalan vuoksi paahtavat. Myös löylynheittokulttuurissa on parantamisen varaa. Miesten pukuhuoneen ilmastointi on riittämätön. Tila on siistit ja avarat, mutta pahimmillaan todella ruuhkainen.",
+    "huomioita": "Remontin ansiosta vilpolan ilmanvaihto on parantunut. Pääsymaksu on noussut 12 euroon."
+  },
+  {
+    "id": 6,
+    "sijoitus": 6,
+    "nimi": "Kaukajärven sauna",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Kangasalantie 80, Tampere"
+    },
+    "hinta": "11€ (lapset 6€, eläkel./opisk. 9€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5, 6, 7],
+        "alkaa": "12:00",
+        "paattyy": "21:45",
+        "selite": "Vanha sauna"
+      },
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5],
+        "alkaa": "16:00",
+        "paattyy": "21:30",
+        "selite": "Uusi sauna"
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "12:00",
+        "paattyy": "21:30",
+        "selite": "Uusi sauna"
+      }
+    ],
+    "ominaisuudet": ["kolme sähkösaunaa", "avanto", "kioski"],
+    "pisteet": 39,
+    "arvioinnit": {
+      "loylyt": "20/25",
+      "miljoo": "3/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "3/3",
+      "saunavaihtoehdot": "2/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "3/3",
+      "hinta": "1/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Uinti Tampere -seuran ylläpitämä uimala, jossa on kolme sähkösaunaa. Tämä mahdollistaa eritasoiset löylyt. Vanhan puolen löylyt ovat kuumanakin miellyttävät. Pukutilat ovat tilavat ja raikkaat. Vieraankin on helppo tulla mukaan yhteisöön. Kirkasvetiseen Kaukajärveen on ilo pulahtaa.",
+    "huomioita": "Kolmas sauna otettiin käyttöön syyskuussa 2024. Miinuksina ajoittainen ruuhkaisuus ja pysäköintipaikkojen vähyys."
+  },
+  {
+    "id": 5,
+    "sijoitus": 5,
+    "nimi": "Rauhaniemi",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Rauhaniementie 24, Tampere"
+    },
+    "hinta": "11€ (lapset 5€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 2, 3, 4, 5],
+        "alkaa": "14:00",
+        "paattyy": "22:30",
+        "selite": "Auki vuoden jokaisena päivänä."
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "11:00",
+        "paattyy": "22:30",
+        "selite": "Auki vuoden jokaisena päivänä."
+      }
+    ],
+    "ominaisuudet": ["öljylämmitteinen sauna", "pikkusauna", "avanto"],
+    "pisteet": 39,
+    "arvioinnit": {
+      "loylyt": "22/25",
+      "miljoo": "4/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "1/3",
+      "saunavaihtoehdot": "2/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "3/3",
+      "hinta": "1/3",
+      "saavutettavuus": "3/3"
+    },
+    "kuvaus": "Maisema on yhtä hyvä kuin Kaupinojalla, mutta pukutilat ovat miesten puolella hävyttömän ahtaat. Ison saunan öljylämmitys takaa tasalaatuiset, lämpimät mutta eivät polttavat löylyt. Pikkusauna tarjoaa miedommat löylyt ja purkaa ruuhkaa.",
+    "huomioita": "Ruuhkat ovat syöneet viihtyvyyttä. Sauna on menossa vuodeksi remonttiin keväällä 2026."
+  },
+  {
+    "id": 4,
+    "sijoitus": 4,
+    "nimi": "Villa Vihta",
+    "sijainti": {
+      "kunta": "Ikaalinen",
+      "osoite": "Toivolansaarentie 3, Ikaalinen"
+    },
+    "hinta": "8€ (lapset 4€)",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2, 4, 7],
+        "alkaa": "17:00",
+        "paattyy": "20:00",
+        "selite": ""
+      }
+    ],
+    "ominaisuudet": ["puusauna", "avanto", "uimaranta", "kahvila"],
+    "pisteet": 40,
+    "arvioinnit": {
+      "loylyt": "22/25",
+      "miljoo": "4/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "3/3",
+      "saunavaihtoehdot": "1/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "2/3",
+      "hinta": "2/3",
+      "saavutettavuus": "2/3"
+    },
+    "kuvaus": "Ikaalisten Löylynlyöjien talkootyöllä rakentama uutuuttaan hohtava saunarakennus. Suurikokoinen puukiuas antaa miellyttävän kosteat löylyt (n. 80 astetta). Useita laudetasoja. Ilmapiiri ja palvelu ovat erittäin ystävällisiä. Kahvilasta avautuva panoraamajärvimaisema on ainoalaatuinen.",
+    "huomioita": "Sauna avautui remontin jälkeen heinäkuussa 2024. Rakenne on samantyyppinen, mutta tyyli on muuttunut tummaksi. Kiuas on uusittu ja löylyt parantuneet, mikä toi lisäpisteen."
+  },
+  {
+    "id": 3,
+    "sijoitus": 3,
+    "nimi": "Niemi-Kapeen tila",
+    "sijainti": {
+      "kunta": "Tampere",
+      "osoite": "Kapeenniementie 22, Terälahti"
+    },
+    "hinta": "25€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [7],
+        "alkaa": "15:00",
+        "paattyy": "19:30",
+        "selite": "Talvikaudella sunnuntaisin parillisilla viikoilla. Kaksi vuoroa: 15-17 ja 17:30-19:30."
+      },
+      {
+        "viikonpaivat": [2],
+        "alkaa": null,
+        "paattyy": null,
+        "selite": "Kesäkaudella tiistaisin."
+      }
+    ],
+    "ominaisuudet": ["savusauna", "kertalämmitteinen puusauna", "avanto"],
+    "pisteet": 40,
+    "arvioinnit": {
+      "loylyt": "24/25",
+      "miljoo": "4/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "3/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "1/3",
+      "hinta": "1/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Tila avasi upeat saunansa yleiseen käyttöön kesästä 2020. Käytössä ovat tilava savusauna ja 1940-luvun Wanha sauna. Savusaunan löylyt tarjoavat voimallisen syvällisen hehkun. Wanhan saunan pönttökiuas hellii poikkeuksellisen kosteilla ja viipyvillä löylyillä. Tila sijaitsee upealla paikalla Näsijärven niemessä.",
+    "huomioita": ""
+  },
+  {
+    "id": 1,
+    "sijoitus": 1,
+    "nimi": "Kauhtua",
+    "sijainti": {
+      "kunta": "Hämeenkyrö",
+      "osoite": "Kauhtuantie 6, Kyröskoski"
+    },
+    "hinta": "9€",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [1, 3, 5],
+        "alkaa": "15:30",
+        "paattyy": "20:30",
+        "selite": "Talvikaudella. Myös savusauna."
+      },
+      {
+        "viikonpaivat": [6],
+        "alkaa": "14:00",
+        "paattyy": "17:30",
+        "selite": "Talvikaudella. Vain tavallinen sauna."
+      },
+      {
+        "viikonpaivat": [3],
+        "alkaa": "15:30",
+        "paattyy": "20:30",
+        "selite": "Kesällä."
+      }
+    ],
+    "ominaisuudet": ["savusauna", "puusauna", "avanto", "kota"],
+    "pisteet": 41,
+    "arvioinnit": {
+      "loylyt": "25/25",
+      "miljoo": "2/4",
+      "ilmapiiri": "3/3",
+      "suihku_pukuhuoneet": "2/3",
+      "saunavaihtoehdot": "3/3",
+      "oheispalvelut": "2/3",
+      "aukioloajat": "2/3",
+      "hinta": "1/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Hämeenkyrön talviuimareiden saunat ovat Pirkanmaan ehdotonta eliittiä. Savusaunan löylyjä pidetään maakunnan parhaina. Ei yleensä liian ruuhkaista. Ilmapiiri on leppoisa ja metelitön. Tilavassa kodassa voi paistaa makkaraa avotulella. Ainoa puute on sijainti vierasvenesatamassa, jolloin kulku tapahtuu parkkipaikan halki.",
+    "huomioita": "Savusaunan kiuas uusittiin täysin heinäkuussa 2019, ja löylyt ovat jopa parantuneet."
+  },
+  {
+    "id": 2,
+    "sijoitus": 1,
+    "nimi": "Veittijärven sauna",
+    "sijainti": {
+      "kunta": "Ylöjärvi",
+      "osoite": "Viljakkalantie 140, Ylöjärvi"
+    },
+    "hinta": "10€ (jäsenille 8€, lapset 5€)",
+    "image": "https://images.unsplash.com/photo-1516413288088-46dc8be87f62?q=80&w=800&auto=format&fit=crop",
+    "aukioloajat": [
+      {
+        "viikonpaivat": [2, 3],
+        "alkaa": "16:00",
+        "paattyy": "21:00",
+        "selite": ""
+      },
+      {
+        "viikonpaivat": [5],
+        "alkaa": "15:00",
+        "paattyy": "21:00",
+        "selite": ""
+      },
+      {
+        "viikonpaivat": [6, 7],
+        "alkaa": "14:00",
+        "paattyy": "21:00",
+        "selite": ""
+      }
+    ],
+    "ominaisuudet": ["kaksi pellettilämmitteistä saunaa", "avanto", "grillikota"],
+    "pisteet": 41,
+    "arvioinnit": {
+      "loylyt": "24/25",
+      "miljoo": "4/4",
+      "ilmapiiri": "2/3",
+      "suihku_pukuhuoneet": "3/3",
+      "saunavaihtoehdot": "3/3",
+      "oheispalvelut": "1/3",
+      "aukioloajat": "2/3",
+      "hinta": "1/3",
+      "saavutettavuus": "1/3"
+    },
+    "kuvaus": "Ylöjärven Avantouimareiden uusi sauna on upea talkootyön mestarinäyte. Pellettilämmitteisten saunojen löylyt ovat voimalliset, täyteläiset, mutta eivät terävät. Miljöö on upea ja rauhallisempi kuin vanhassa paikassa. Oleskelutiloja on ulkona aiempaa enemmän, bonuksena hieno grillikota.",
+    "huomioita": "Kasvanut suosio on vaikuttanut yhteisöllisyyteen, minkä vuoksi ilmapiiristä on vähennetty yksi piste."
+  }
+]

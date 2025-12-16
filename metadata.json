@@ -1,0 +1,7 @@
+{
+  "name": "Löyly - Sauna Finder",
+  "description": "Discover and track opening hours for public saunas in the Pirkanmaa region.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
