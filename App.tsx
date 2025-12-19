@@ -220,8 +220,18 @@ function App() {
         return b.pisteet - a.pisteet;
       });
     } else {
-      // Default sort by score
-      return processed.sort((a, b) => b.pisteet - a.pisteet);
+      // Default sort by ranking (sijoitus), falling back to score
+      return processed.sort((a, b) => {
+        const aRank = a.sijoitus ?? Number.POSITIVE_INFINITY;
+        const bRank = b.sijoitus ?? Number.POSITIVE_INFINITY;
+
+        if (aRank !== bRank) {
+          return aRank - bRank;
+        }
+
+        // Fallback to score if ranking is missing or equal
+        return b.pisteet - a.pisteet;
+      });
     }
   }, [filters, mergedSaunaData, userLocation, viewMode, favorites]);
 

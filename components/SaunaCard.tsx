@@ -112,8 +112,13 @@ const SaunaCard: React.FC<SaunaCardProps> = ({ sauna, isFavorite, onToggleFavori
              )}
            </div>
 
-           {/* Score Badge */}
+           {/* Ranking + Score Badge */}
            <div className="flex items-center gap-1 px-2.5 py-1 rounded-full bg-white/95 text-wood-900 shadow-md backdrop-blur-md border border-white/50 mt-1">
+              {sauna.sijoitus != null && (
+                <span className="text-[11px] font-black leading-none mr-1">
+                  #{sauna.sijoitus}
+                </span>
+              )}
               <Star size={12} className="text-amber-500 fill-amber-500" />
               <span className="text-sm font-black leading-none">{sauna.pisteet}</span>
            </div>
